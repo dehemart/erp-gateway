@@ -1,6 +1,6 @@
 version: '3.4'
 services:
-  erp-produto:
+  erp-gateway:
     image: dehemart/erp-gateway:latest
     container_name: erp-gateway
     ports:
